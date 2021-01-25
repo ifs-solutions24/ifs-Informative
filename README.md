@@ -1,6 +1,11 @@
 # ifs-Informative
 Informative Docs
 
+### Important Links
+
+- [Nginx Doc](https://github.com/nginx)
+- [Build Nginx](https://nginx.org/en/docs/configure.html)
+- [Free Nginx E-Book](https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks&_ga=2.156844219.1469873918.1611598879-549172211.1611598879)
 
 GNU General Public License
 ==========================
