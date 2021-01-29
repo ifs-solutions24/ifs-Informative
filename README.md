@@ -1,15 +1,23 @@
-# ifs-Informative
-Informative Docs
+ IoT From Scratch Research and Development Theoretical REPO
+===========================================================
+
+# Informative Docs
 
 ### Important Links
 
 - [Nginx Doc](https://github.com/nginx)
 - [Build Nginx](https://nginx.org/en/docs/configure.html)
 - [Free Nginx E-Book](https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks&_ga=2.156844219.1469873918.1611598879-549172211.1611598879)
-
-
+- [Mozilla TTS](https://github.com/mozilla/TTS)
+- [WaveRNN vocoder](https://github.com/fatchord/WaveRNN/)
+- [melgan vocoder](https://github.com/seungwonpark/melgan)
+- [QUARTZNET-automatic speech recognition](https://github.com/isadrtdinov/quartznet) :- [paper](https://arxiv.org/pdf/1910.10261.pdf)
+- [Microsoft MIMIC2](https://github.com/MycroftAI/mimic2)
+- [Transformer TTS](https://github.com/as-ideas/TransformerTTS)
+- [Google-Voice Builder](https://github.com/google/voice-builder)
+<hr>
  Text To Speech Concept ref- https://github.com/erogol/TTS-papers/
-==========================
+=====================================================================
 (Feel free to suggest changes)
 # Papers
 - Merging Phoneme and Char representations: https://arxiv.org/pdf/1811.07240.pdf
