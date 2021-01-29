@@ -15,8 +15,12 @@
 - [Microsoft MIMIC2](https://github.com/MycroftAI/mimic2)
 - [Transformer TTS](https://github.com/as-ideas/TransformerTTS)
 - [Google-Voice Builder](https://github.com/google/voice-builder)
+
+
 <hr>
- Text To Speech Concept ref- https://github.com/erogol/TTS-papers/
+
+
+Text To Speech Concept ref- https://github.com/erogol/TTS-papers/
 =====================================================================
 (Feel free to suggest changes)
 # Papers
